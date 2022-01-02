@@ -1,0 +1,23 @@
+@media (min-width:600px) {
+    body {
+        overflow: hidden;
+    }
+}
+
+.material-card h2 {
+    font-size: 1.1em;
+}
+
+.material-card h2 strong {
+    font-size: 0.6em;
+}
+
+.material-card .mc-btn-action {
+    width: 45px;
+    height: 45px;
+    line-height: 35px;
+}
+
+.material-card.mc-active .mc-description {
+    padding-top: 3.6em;
+}
